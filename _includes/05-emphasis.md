@@ -1,0 +1,6 @@
+- Chemistry and German (BA)
+- Biomedical Engineering (MS)
+- Programming Languages
+  - *Python*
+  - *R*
+  - *Java*
